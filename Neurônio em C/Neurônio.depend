@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606851633 source:c:\users\nolasco\downloads\faculdade\segundo período\aed 2\trabalho prático\palíndromo iterativo em c\neurônio\main.c
+	<stdio.h>
+	<stdlib.h>
+
